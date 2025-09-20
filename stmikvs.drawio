@@ -4,6 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Rb4fOkXDFQsrh_0LuPgM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="560" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Rb4fOkXDFQsrh_0LuPgM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="560" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Rb4fOkXDFQsrh_0LuPgM-3" value="SUPPORT&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rb4fOkXDFQsrh_0LuPgM-4" value="PRIMARY" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rb4fOkXDFQsrh_0LuPgM-5" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="80" height="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
